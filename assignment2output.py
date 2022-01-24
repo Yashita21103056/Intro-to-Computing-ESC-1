@@ -25,10 +25,10 @@ b>>4: 0
 
 
 #question4
-enter 1st no.56
-enter 2nd no.48
-enter 3rd no.1
-largest no. is: 56
+enter 1st no.4
+enter 2nd no.4
+enter 3rd no.5
+largest no. is: 5
 
 #question5
 enter a sentence:My name is yashita
