@@ -36,13 +36,12 @@ print("b>>4:",b>>4)
 a=input("enter 1st no.")
 b=input("enter 2nd no.")
 c=input("enter 3rd no.")
-if a>b:
-    if a>c:
-         print("largest no. is:",a)
-    else:
-        print("largest no. is:",c)
-else:
+if (a>b) and (a>c):
+    print("largest no. is:",a)
+elif (b>c) and (b>c):
     print("largest no. is:",b)
+else:
+    print("largest no. is:",c)
 
 
 #question5
