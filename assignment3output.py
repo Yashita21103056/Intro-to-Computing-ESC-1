@@ -38,7 +38,7 @@ Your Grade is 'A+' and outstanding performance
 Enter SID(Donot enter same SID): 21103056
 Enter Name: Yashita
 Do you want to enter another student entry(Y or N):y
-Enter SID: 21103040
+Enter SID(Donot enter same SID): 21103040
 Enter Name: Zenia
 Do you want to enter another student entry(Y or N):n
 {21103056: 'Yashita', 21103040: 'Zenia'}        #students details stored in the dictionary.
