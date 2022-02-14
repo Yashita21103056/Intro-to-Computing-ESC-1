@@ -140,7 +140,7 @@ students = {sid:name}
 while True:
     choice = input("Do you want to enter another student entry(Y or N):").upper()
     if choice == 'Y':
-        sid = int(input("Enter SID: "))
+        sid = int(input("Enter SID(Donot enter same SID): "))
         name = input("Enter Name: ")
         students[sid] = name
     elif choice == 'N':
